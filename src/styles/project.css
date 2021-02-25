@@ -1,0 +1,19 @@
+.box {
+  width: 100%;
+  border-bottom: 1px #cccccc solid;
+  margin-top: 10px;
+  background: #ffffff;
+  color: #000000;
+  place-content: center;
+}
+.proj {
+  text-transform: capitalize;
+}
+.desc {
+  font-size: 20px;
+}
+.proj,
+.desc {
+  padding-bottom: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
