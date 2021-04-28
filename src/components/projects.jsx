@@ -43,7 +43,7 @@ class Projects extends Component {
           <div className="projectName ">
             <h2>Disposify</h2>
           </div>
-          <div className="description">
+          <div className="description">    
             <p>
               Disposify is a conversational interface that provide Simple
               information on how to segregate and compost at home, how to
